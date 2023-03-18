@@ -1,4 +1,4 @@
-const endTime = '19 march 2023 2:45 AM';
+const endTime = '11 august 2023 11:59 AM';
 const time = document.querySelectorAll('.show-counter');
 console.log(time[0])
 const timercount = () =>{
